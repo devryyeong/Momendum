@@ -31,5 +31,3 @@ function init(){
     title.addEventListener("click", handleClick);
 }
 init();
-
-//map, filter, reduce 필수..? (2차원배열에서 많이 쓰임)
